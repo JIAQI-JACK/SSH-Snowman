@@ -9,3 +9,9 @@ Complete the general framework content
 4. Error handling
 5. Interface tool classes and return definitions, etc
 
+## Add data collect
+Complete the data collection --12.03 by Jiaqi Tang
+1. Simulate device data collection from SSH devices
+2. Simulate user data collection from SSH cloud
+3. Aggregate all data
+
