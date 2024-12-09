@@ -25,4 +25,3 @@ def analyze_user(user_data):
     model.fit(X, y)
     prediction = model.predict([[user_data["usage_time"] + 1]])
     return prediction[0]
-

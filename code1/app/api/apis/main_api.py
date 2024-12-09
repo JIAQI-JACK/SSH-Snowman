@@ -24,3 +24,4 @@ def analyze_api():
         "analyze_device_data": analyze_device_data
     }
     return jsonify(result)
+
